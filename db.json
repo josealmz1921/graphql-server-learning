@@ -1,0 +1,25 @@
+{
+    "persons":[
+        {
+          "name": "Midu",
+          "phone": "034-1234567",
+          "street": "Calle Frontend",
+          "city": "Barcelona",
+          "id": "dac7c2b4-d16f-4531-b1c2-f5390a524be4"
+        },
+        {
+          "name": "Youseff",
+          "phone": "044-1234567",
+          "street": "Avenida Fullstack",
+          "city": "Mataro",
+          "id": "595be404-9929-4a52-96d9-57c1eef59edc"
+        },
+        {
+          "name": "Itzi",
+          "street": "Pasaje Testing",
+          "city": "Ibiza",
+          "id": "6aeafa1d-05e4-46cd-8a0b-cd2e98bf3240"
+        }
+      ]
+      
+}
